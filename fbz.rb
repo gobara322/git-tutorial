@@ -13,6 +13,9 @@ for num in 1..120 do
 	elsif(num % 5 == 0)
 		print("num = ",num,"\n")
 		print "BUZZ \n"
+	elsif(num % 7 == 0)
+		print("num = ",num,"\n")
+		print "GIT \n"
 	end
 end
 	
